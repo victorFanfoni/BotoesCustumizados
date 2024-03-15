@@ -1,4 +1,4 @@
-package com.fiap.botoescostumizados.ui.theme
+package com.fiap.botoescustumizados.ui.theme
 
 import android.app.Activity
 import android.os.Build

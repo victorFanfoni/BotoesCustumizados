@@ -1,4 +1,4 @@
-package com.fiap.botoescostumizados
+package com.fiap.botoescustumizados
 
 import org.junit.Test
 
